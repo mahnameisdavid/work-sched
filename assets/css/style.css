@@ -57,10 +57,12 @@ body {
     color: white;
   }
   
+  /* This will be the save button varibale for javascript */
+
   .saveBtn {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
+    border-bottom-right-radius: 50px;
     background-color: #06AED5;
     color: white;
   }
